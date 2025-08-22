@@ -1,10 +1,11 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Gabriel Avalos Zanoni",
+  "photo": "https://avatars.githubusercontent.com/u/189486168?v=4",
+  "pessoa": "Engenheiro de Software",
+  "localizacao": "Apucarana - PR - BR",
+  "celular": "(43) 99832-8367",
+  "email": "baldurbrzanoni@gmail.com",
+  "email2": "zanonibr@hotmail.com",
   "skills": {
     "hardSkills": [
       {
