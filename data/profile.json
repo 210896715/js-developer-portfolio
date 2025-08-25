@@ -39,33 +39,48 @@
     "Inglês (intermediário)",
     "Espanhol (básico)"
   ],
-  "portfolio": [
+  "projetos": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokedex em Js - DIO",
+      "url": "",
       "github": true
     }
+  
   ],
-  "professionalExperience": [
+  "experience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Auxiliar de Produção de Metal / Oneal Áudio",
+      "period": "07/2015 - 02/2025",
+      "description": "Progredi para operar maquinários modernos de alto investimento, como as dobras CNC,
+                        ganhando experiência em processos automatizados e adaptação a novas ferramentas.<br>
+                        Aprimorei minha capacidade de aprendizado e adaptação ao me familiarizar com os softwares
+                        de controle de máquinas.<br> A operação de equipamentos de precisão me ensinou atenção aos detalhes
+                        e raciocínio lógico na solução de problemas, habilidades essenciais para QA e desenvolvimento.<br>
+                        Contribuí para o controle de qualidade e a inspeção das peças, garantindo que estivessem dentro das
+                        especificações técnicas.<br>
+                        Participei ativamente da organização do ambiente de trabalho e seguia as normas de segurança para assegurar
+                        um fluxo de produção eficiente.<br>"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Soldador / Fara-on Estamparias",
+      "period": "07/2015 - 02/2025",
+      "description": "Realizava solda utilizando os processos de eletrodo revestido, MIG e TIG, aplicando-os na produção de diversas 
+                        estruturas metálicas.<br>
+                        Produzia caixas, tubulações e outras estruturas, garantindo a precisão das medidas e a qualidade dos produtos.<br>
+                        Desempenhava também as funções de Auxiliar de Produção, colaborando com a estocagem e o controle de materiais.<br>
+                        Contribuía para a manutenção e limpeza do maquinário, garantindo seu bom funcionamento e prolongando a vida útil.<br>
+                        Atuava no empacotamento das peças prontas, preparando-as adequadamente para o envio e garantindo sua integridade.<br>"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Auxiliar de Produção / Fara-on Estamparias",
+      "period": "07/2015 - 02/2025",
+      "description": "Auxiliava na linha de produção, colaborando para a execução das tarefas diárias e garantindo a 
+                        continuidade do processo.<br> Realizava a organização e o controle do estoque de materiais, assegurando a 
+                        disponibilidade de insumos.<br>
+                        Participava do empacotamento de peças, preparando os produtos finais de acordo com os padrões da empresa.<br>
+                        Contribuía para a limpeza geral e manutenção do maquinário, mantendo o ambiente de trabalho limpo e funcional.<br>
+                        Seguiu as normas de segurança do trabalho e os procedimentos operacionais para garantir um ambiente de produção 
+                        seguro e eficiente.<br>"
     }
   ]
 }
